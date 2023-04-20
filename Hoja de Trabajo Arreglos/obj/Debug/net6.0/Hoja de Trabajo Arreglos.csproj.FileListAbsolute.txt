@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\bin\Debug\net6.0\Hoja de Trabajo Arreglos.exe
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\bin\Debug\net6.0\Hoja de Trabajo Arreglos.deps.json
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\bin\Debug\net6.0\Hoja de Trabajo Arreglos.runtimeconfig.json
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\bin\Debug\net6.0\Hoja de Trabajo Arreglos.dll
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\bin\Debug\net6.0\Hoja de Trabajo Arreglos.pdb
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.dll
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\refint\Hoja de Trabajo Arreglos.dll
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.pdb
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\Hoja de Trabajo Arreglos.genruntimeconfig.cache
+C:\Users\HP\source\repos\Hoja de Trabajo Arreglos\Hoja de Trabajo Arreglos\obj\Debug\net6.0\ref\Hoja de Trabajo Arreglos.dll
